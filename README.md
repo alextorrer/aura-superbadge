@@ -1,3 +1,3 @@
 # Salesforce DX Project
-## Aura Component Framework Superbadge by Salesforce Trailhead
+Aura Component Framework Superbadge by Salesforce Trailhead
 
